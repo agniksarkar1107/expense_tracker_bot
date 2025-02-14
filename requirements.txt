@@ -1,0 +1,8 @@
+Flask
+twilio
+mysql-connector-python
+re
+matplotlib
+pandas
+numpy
+spacy
